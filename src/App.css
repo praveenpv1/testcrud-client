@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.pad15 {
+  padding :15px;
+}
+.nodisp {
+  display: none;
+}
+.error-text {
+  font-size: 12px;
+  color: red;
+}
